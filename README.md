@@ -1,0 +1,2 @@
+# eksploracjaDanych
+Przedmiot uczelnia 
